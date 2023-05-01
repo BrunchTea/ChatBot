@@ -13,6 +13,7 @@
       <change beforePath="$PROJECT_DIR$/DataMining/raw_chat_corpus/sms-useless/smsCorpus_en_xml_2015.03.09_all.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DataMining/raw_chat_corpus/sms-useless/smsCorpus_zh_sql_2015.03.09.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DataMining/raw_chat_corpus/sms-useless/smsCorpus_zh_xml_2015.03.09.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +32,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/DataMining/raw_chat_corpus/egret-qa-useless" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -46,7 +47,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Development/CS/Python/Summrizer/ChatBot/ChatBot_web/templates/img",
+    "last_opened_file_path": "D:/Development/CS/Python/Summrizer/ChatBot",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -71,6 +72,7 @@
       <updated>1682937884488</updated>
       <workItem from="1682937887842" duration="832000" />
       <workItem from="1682940633972" duration="1765000" />
+      <workItem from="1682944365916" duration="19000" />
     </task>
     <servers />
   </component>

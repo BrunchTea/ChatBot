@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/DataMining/raw_chat_corpus/egret-qa-useless" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/DataMining/raw_chat_corpus/sms-useless" vcs="Git" />
   </component>

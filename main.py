@@ -18,9 +18,8 @@ def chat(**kwargs):
 
     if os.path.isfile(opt.corpus_data_path) == False:
         preprocess()
-
+    print("BOT > 你好，我是交大小助手，很高兴为您服务")
     while(1):
-        print("BOT > 你好，我是交大小助手，很高兴为您服务" )
         input_sentence = input('YOU > ')
         if input_sentence == 'q' or input_sentence == 'quit' or input_sentence == 'exit': break
         if opt.use_QA_first:
