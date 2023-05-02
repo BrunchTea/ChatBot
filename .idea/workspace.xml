@@ -7,13 +7,14 @@
     <list default="true" id="16ae1c1f-6624-422b-a291-84e9a0e416b8" name="变更" comment="">
       <change afterPath="$PROJECT_DIR$/DataMining/raw_chat_corpus/sms-useless/smsCorpus_zh_sql_2015.03.09/smsCorpus_zh_2015.03.09.sql" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/DataMining/raw_chat_corpus/sms-useless/smsCorpus_zh_xml_2015.03.09/smsCorpus_zh_2015.03.09.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataMining/raw_chat_corpus/egret-qa-useless/raw/egret_wenda_lines_raw.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DataMining/raw_chat_corpus/egret-qa-useless/raw/egret_wenda_lines_raw.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataMining/raw_chat_corpus/sms-useless/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DataMining/raw_chat_corpus/sms-useless/smsCorpus_en_sql_2015.03.09_all.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DataMining/raw_chat_corpus/sms-useless/smsCorpus_en_xml_2015.03.09_all.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DataMining/raw_chat_corpus/sms-useless/smsCorpus_zh_sql_2015.03.09.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DataMining/raw_chat_corpus/sms-useless/smsCorpus_zh_xml_2015.03.09.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clean_chat_corpus/qingyun.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/clean_chat_corpus/qingyun.tsv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +39,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2PBkVGkGwY6lMKk3LxvjtHA7wvV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,7 +51,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Development/CS/Python/Summrizer/ChatBot",
+    "last_opened_file_path": "D:/Development/CS/Python/TexkRank2LTSM/ChatBot/clean_chat_corpus",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -59,6 +63,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Development\CS\Python\TexkRank2LTSM\ChatBot\clean_chat_corpus" />
       <recent name="D:\Development\CS\Python\Summrizer\ChatBot\ChatBot_web\templates\img" />
     </key>
   </component>
