@@ -1,9 +1,8 @@
-import codecs
 import os
 import csv
-from config import Config
-from language.langconv import *
-from util import *
+from backend.config import Config
+from ..language.langconv import *
+from ..util import *
 
 def prepocess_v1(raw_corpus_file_name, result_file_name):
     raw_corpus_file = codecs.open(raw_corpus_file_name, encoding=Config.encoding, errors="replace")

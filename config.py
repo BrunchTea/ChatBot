@@ -6,7 +6,7 @@ class Config:
     '''
     Chatbot模型参数
     '''
-    corpus_data_path = 'corpus.pth' #已处理的对话数据
+    corpus_data_path = 'corpus.pth'  #已处理的对话数据
     use_QA_first = True #是否载入知识库
     max_input_length = 50 #输入的最大句子长度
     max_generate_length = 20 #生成的最大句子长度

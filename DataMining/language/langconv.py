@@ -11,7 +11,7 @@ try:
 except:
     pass
 
-from language.zh_wiki import zh2Hant, zh2Hans
+from ..language.zh_wiki import zh2Hant, zh2Hans
 
 import sys
 

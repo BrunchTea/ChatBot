@@ -1,8 +1,7 @@
-import codecs
 import os
 
-from config import Config
-from util import *
+from backend.config import Config
+from ..util import *
 
 
 def preprocess(raw_corpus_post_file_name, raw_corpus_response_file_name, result_file_name):

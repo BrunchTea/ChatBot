@@ -5,21 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16ae1c1f-6624-422b-a291-84e9a0e416b8" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/DataMining/raw_chat_corpus/sms-useless/smsCorpus_zh_sql_2015.03.09/smsCorpus_zh_2015.03.09.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataMining/raw_chat_corpus/sms-useless/smsCorpus_zh_xml_2015.03.09/smsCorpus_zh_2015.03.09.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/change.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/github.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/linkedin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/linkedin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataMining/raw_chat_corpus/egret-qa-useless/raw/egret_wenda_lines_raw.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DataMining/raw_chat_corpus/egret-qa-useless/raw/egret_wenda_lines_raw.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataMining/raw_chat_corpus/sms-useless/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataMining/raw_chat_corpus/sms-useless/smsCorpus_en_sql_2015.03.09_all.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataMining/raw_chat_corpus/sms-useless/smsCorpus_en_xml_2015.03.09_all.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataMining/raw_chat_corpus/sms-useless/smsCorpus_zh_sql_2015.03.09.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataMining/raw_chat_corpus/sms-useless/smsCorpus_zh_xml_2015.03.09.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clean_chat_corpus/qingyun.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/clean_chat_corpus/qingyun.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataMining/language/langconv.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataMining/language/langconv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataMining/process_pipelines/chatterbot.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataMining/process_pipelines/chatterbot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataMining/process_pipelines/douban.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataMining/process_pipelines/douban.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataMining/process_pipelines/ptt.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataMining/process_pipelines/ptt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataMining/process_pipelines/qingyun.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataMining/process_pipelines/qingyun.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataMining/process_pipelines/subtitle.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataMining/process_pipelines/subtitle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataMining/process_pipelines/tieba.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataMining/process_pipelines/tieba.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataMining/process_pipelines/weibo.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataMining/process_pipelines/weibo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataMining/process_pipelines/xiaohuangji.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataMining/process_pipelines/xiaohuangji.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapreprocess.py" beforeDir="false" afterPath="$PROJECT_DIR$/datapreprocess.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
     <envs>
@@ -51,7 +72,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Development/CS/Python/TexkRank2LTSM/ChatBot/clean_chat_corpus",
+    "last_opened_file_path": "D:/Development/CS/Python/TexkRank2LTSM/ChatBot",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -63,8 +84,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Development\CS\Python\TexkRank2LTSM\ChatBot" />
+      <recent name="D:\Development\CS\Python\TexkRank2LTSM\ChatBot\web" />
       <recent name="D:\Development\CS\Python\TexkRank2LTSM\ChatBot\clean_chat_corpus" />
       <recent name="D:\Development\CS\Python\Summrizer\ChatBot\ChatBot_web\templates\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Development\CS\Python\TexkRank2LTSM\ChatBot\source" />
+      <recent name="D:\Development\CS\Python\TexkRank2LTSM\ChatBot\backend" />
+      <recent name="D:\Development\CS\Python\TexkRank2LTSM\ChatBot" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
@@ -78,6 +106,7 @@
       <workItem from="1682937887842" duration="832000" />
       <workItem from="1682940633972" duration="1765000" />
       <workItem from="1682944365916" duration="19000" />
+      <workItem from="1683121313369" duration="12228000" />
     </task>
     <servers />
   </component>

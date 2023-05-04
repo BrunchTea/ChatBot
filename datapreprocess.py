@@ -6,7 +6,7 @@ import re
 import logging
 jieba.setLogLevel(logging.INFO) #关闭jieba输出信息
 
-corpus_file = 'clean_chat_corpus/qingyun.tsv' #未处理的对话数据集
+corpus_file = 'clean_chat_corpus/qingyun.tsv'  #未处理的对话数据集
 cop = re.compile("[^\u4e00-\u9fa5^a-z^A-Z^0-9]") #分词处理正则
 unknown = '</UNK>' #unknown字符
 eos = '</EOS>' #句子结束符
@@ -15,7 +15,7 @@ padding = '</PAD>' #句子填充负
 max_voc_length = 10000 #字典最大长度
 min_word_appear = 10 #加入字典的词的词频最小值
 max_sentence_length = 50 #最大句子长度
-save_path = 'corpus.pth' #已处理的对话数据集保存路径
+save_path = 'corpus.pth'  #已处理的对话数据集保存路径
 
 def preprocess():
     print("preprocessing...")
